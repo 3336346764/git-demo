@@ -10,9 +10,7 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atgu! hello git!
 hello atguigu! hello git!
-hello atguigu! hello git!master test
-hello atguigu! hello gi
-d
-fd
-
-
+<<<<<<< HEAD
+hello atguigu! hello git!master te atguigu! 
+h atguigu! hello git!
+h a atguigu! hello ffdf hot-fix t
